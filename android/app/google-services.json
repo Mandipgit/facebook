@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325419873872",
+    "project_id": "facebook-f409d",
+    "storage_bucket": "facebook-f409d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325419873872:android:ea52631cb953efd4ca4355",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBRVvu3zCxyxa3LwCPwzhIB6VW9VAafAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
